@@ -20,4 +20,8 @@ Silvio Santos Ipsum no duro? É bom ou não é? Ma você, topa ou no topamm. É 
 - item 02
 + item 03
 
-
+## Trabalhando com bloco de códigos
+```
+qunado não quero identificar a linguagem com a qual estou
+trabalhando.
+ ```
