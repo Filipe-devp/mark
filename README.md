@@ -25,3 +25,10 @@ Silvio Santos Ipsum no duro? É bom ou não é? Ma você, topa ou no topamm. É 
 qunado não quero identificar a linguagem com a qual estou
 trabalhando.
  ```
+
+
+```javascript
+   var s = "atribuindo valores a uma variavel";
+   alert(s);
+ ```  
+
