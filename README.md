@@ -15,4 +15,9 @@ Silvio Santos Ipsum no duro? É bom ou não é? Ma você, topa ou no topamm. É 
 2. item 02
 3. item 03
 
+## trabalhando com listas não ordenadas
+* item 01
+- item 02
++ item 03
+
 
