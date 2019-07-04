@@ -53,10 +53,10 @@ Notas              | Matéria
 9,5                | Office
 
 
-** demonstração negrito **
+**demonstração negrito**
 + primeira
 - segunda
 * terceira
 
 
-__ negrito__
+__negrito__
