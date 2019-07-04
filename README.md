@@ -32,3 +32,11 @@ trabalhando.
    alert(s);
  ```  
 
+unidade Curricular | Nome 
+-------------------|-------------------      |  
+         9       | | logica de programação
+        10         |  C#
+        11         |  Dev Web
+        12         |  php
+        13         |  Android
+
