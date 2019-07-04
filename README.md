@@ -42,3 +42,12 @@ UC11               | Dev Web
 UC12               | Dev PHP
 UC13               | Testes
 
+
+## Tabela dinâmica
+Notas              | Matéria
+-------------------|--------------------
+10,00              | Programação
+9,75               | Redes
+9,75               | Photo shop
+9,75               | Manutenção de micros
+9,5                | Office
