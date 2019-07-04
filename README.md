@@ -37,4 +37,8 @@ trabalhando.
 Unidade Curricular | Nome
 -------------------|-------------------
 UC09               | Lógica de Programação
+UC10               | Programação C#
+UC11               | Dev Web
+UC12               | Dev PHP
+UC13               | Testes
 
